@@ -522,5 +522,5 @@ https://github.com/rohit-codec/AI-and-Data-Science
 
 ---
 
-⭐ This repository will continuously evolve as I learn and build more AI and Data Science projects
+⭐ This repository will continuously evolve as I learn and build more AI and Data Science projects ja
 
